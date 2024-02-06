@@ -1,11 +1,10 @@
 <template>
-  <router-view/>
+    <h1 bg-red-500>Home Component</h1>
 </template>
 
 <script setup>
-
 </script>
 
-<style scoped>
+<style>
 
 </style>
